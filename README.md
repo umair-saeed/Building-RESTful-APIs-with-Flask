@@ -1,10 +1,10 @@
-I have build this demo to make some notes for myself on RESTful APIs with Python 3 and Flask. These super simple API example are to remind myself when I need to revisit Flask.
+I have build this demo to make some notes for myself on RESTful APIs with Python 3 and Flask. These super simple API example are to remind myself whenever I need to revisit Flask. For this reason I've kept everything in a single Python file as this is not a full project.
 
- I have used SQL Lite DB to store the User and Planets information.
+I have used SQL Lite DB to store the User and Planets information. DB creation and seeding is part of the code.
  
  
 
-## WHat did I used in this demo?
+## What did I use in this demo?
 ### Tools
 * I used Postman as a front-end.
 * SQLite Browser to open the database file.
