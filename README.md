@@ -20,3 +20,8 @@ I have used SQL Lite DB to store the User and Planets information. DB creation a
   * Adding new planets with a POST method
   * Updating a planet using a PUT method
   * Deleting a planet with DEL
+
+I created 'requirements.txt' file with
+'''python
+pip freeze > requirements.txt
+'''
