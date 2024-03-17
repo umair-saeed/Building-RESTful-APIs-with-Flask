@@ -22,6 +22,8 @@ I have used SQL Lite DB to store the User and Planets information. DB creation a
   * Deleting a planet with DEL
 
 I created 'requirements.txt' file with
-'''python
+
+```python
 pip freeze > requirements.txt
-'''
+```
+
